@@ -12,7 +12,7 @@ This webpage links to some projects that have been created during week one of Ep
 
 Clone this repository, click on html file, open web browser.
 
-Or, to see the ghpages site, open webbrowser of choice and type: akemp7.github.io/Code-review-week-1
+Or, to see the ghpages site, open web browser of choice and type: akemp7.github.io/Code-review-week-1
 
 
 
