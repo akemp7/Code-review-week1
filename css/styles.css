@@ -1,5 +1,5 @@
 body {
-  background-color: #ecfcff;
+  background-color: #fcf5ee;
 }
 
 h2{
@@ -9,6 +9,8 @@ h2{
 h3{
   font-style: oblique;
   font-weight: bold;
+  font-size:20px;
+  text-align: center;
 }
 
 h4{
@@ -19,4 +21,12 @@ h4{
 .axoltl{
   float: right;
   padding-right: 30px;
+}
+
+.intro p{
+  text-align: center;
+}
+
+.books{
+  font-style: italic;
 }
