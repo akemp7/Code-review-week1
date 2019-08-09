@@ -20,8 +20,9 @@ h4{
   text-align:center;
 }
 .axoltl{
-  float:right;
-  padding-right: 30px;
+  float:left;
+  padding-left: 475px;
+  margin-top:40px;
 }
 
 .intro p{
@@ -70,6 +71,9 @@ h4{
   padding: .5px;
 }
 
+.row2{
+  margin-left: 10px;
+}
 .panel-body3 img{
   float:left;
   width: 250;
@@ -91,3 +95,25 @@ h4{
 .skills{
   font-style: oblique;
 }
+
+.well{
+  margin-top: 80px;
+}
+
+.intro h3{
+  font-size: 14px;
+  text-align: center;
+}
+
+.containerprojects{
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-right:40px;
+}
+
+/* @media screen and (max-width: 700px) and (min-width: 600px)  {
+    body {
+        background-color: black;
+        color: white;
+    }
+} */
