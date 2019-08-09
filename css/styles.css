@@ -49,16 +49,27 @@ h4{
 .panel-heading1 {
   background-color: #ffc4d0;
   text-align:left;
-  padding: 3px;
+  padding: 2px;
 }
 
 .panel-body2 img{
   float: left;
   width: 150px;
   height: 150px;
-  padding-right:34px;
-  padding-left:10px;
+  padding-right:15px;
+  padding-left:15px;
 }
+
+.panel-heading2{
+  background-color:#5edfff;
+  padding: .5px;
+}
+
+.panel-heading3{
+  background-color:#5edfff;
+  padding: .5px;
+}
+
 .panel-body3 img{
   float:left;
   width: 250;
@@ -69,4 +80,14 @@ h4{
 
 .panel-body3 p{
   font-style: italic;
+}
+
+.nontech ul {
+  display: inline-block;
+  text-align: center;
+  margin-left: 200px;
+}
+
+.skills{
+  font-style: oblique;
 }
