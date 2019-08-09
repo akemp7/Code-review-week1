@@ -20,7 +20,7 @@ h4{
   text-align:center;
 }
 .axoltl{
-  float: right;
+  float:right;
   padding-right: 30px;
 }
 
@@ -56,7 +56,7 @@ h4{
   float: left;
   width: 150px;
   height: 150px;
-  padding-right:30px;
+  padding-right:34px;
   padding-left:10px;
 }
 .panel-body3 img{
