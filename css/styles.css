@@ -1,0 +1,22 @@
+body {
+  background-color: #ecfcff;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  font-style: oblique;
+  font-weight: bold;
+}
+
+h4{
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 14px;
+}
+.axoltl{
+  float: right;
+  padding-right: 30px;
+}
