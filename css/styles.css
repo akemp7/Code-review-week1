@@ -19,12 +19,11 @@ h4{
   font-size: 15px;
   text-align:center;
 }
-.axoltl{
-  float:left;
-  padding-left: 475px;
-  margin-top:40px;
-}
 
+/* .axoltl { */
+  /* margin-bottom:100px; */
+
+/* } */
 .intro p{
   text-align: center;
 }
@@ -111,9 +110,22 @@ h4{
   margin-right:40px;
 }
 
-/* @media screen and (max-width: 700px) and (min-width: 600px)  {
-    body {
+.rowimages{
+  margin-top: 50px;
+  padding-top:20px;
+}
+
+.axoltl3{
+  display:inline-block;
+  margin-left:330px;
+}
+
+.axoltl4{
+  margin-bottom: 10px;
+}
+/* @media screen and (max-width:) and (min-width: 600px)  {
+    bo2dy {
         background-color: black;
-        color: white;
+        color: gray;
     }
 } */
