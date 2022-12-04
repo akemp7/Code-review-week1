@@ -20,9 +20,6 @@ Or, to see the ghpages site, open web browser of choice and type: akemp7.github.
 
 _There are no known bugs_
 
-## Support and contact details
-
-_If there are any issues contact: anita.k.kemp@gmail.com_
 
 ## Technologies Used
 
